@@ -5,9 +5,11 @@
 
 <br/>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongminn&count_bg=%23FFAF37&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br />
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-3776AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto://berry9901@gmail.com)
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongminn&count_bg=%23FFAF37&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Resume](https://img.shields.io/badge/Resume-202B3D?style=flat&logo=readme&logoColor=white)](https://career.programmers.co.kr/pr/seongminn)
 
 ### 프로젝트
 
