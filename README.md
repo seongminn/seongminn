@@ -9,7 +9,7 @@
 <br />
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-3776AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto://berry9901@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-202B3D?style=flat&logo=readme&logoColor=white)](https://career.programmers.co.kr/pr/seongminn)
+[![Resume](https://img.shields.io/badge/Resume-202B3D?style=flat&logo=readme&logoColor=white)](https://drive.google.com/file/d/14oj4fWVnsPEPbkMXIzcvkOpSqV8ssoaH/view?usp=sharing)
 
 ### 프로젝트
 
