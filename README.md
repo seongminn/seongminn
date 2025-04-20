@@ -1,7 +1,7 @@
 ## 프론트엔드 개발자, 최성민입니다.
 
-[스포츠 중계 서비스, 훕치치](https://hufscheer.site)를 개발하고 운영 중에 있습니다. 약 **6,000명의 누적 사용자**를 보유하고 있고, 다양한 관점에서 **사용자 경험 개선을 통한 서비스 성장**을 위해 꾸준히 노력하고 있습니다.<br />
-[나의 말이 상대방에게 어떻게 받아들여지는지에 대해 고민](https://comoluna.me/posts/code-review)하며, 이를 바탕으로 원활하게 소통하고자 노력합니다.
+[스포츠 중계 서비스, 훕치치](https://hufscheer.com)를 개발하고 운영 중에 있습니다. 약 **6,000명의 누적 사용자**를 보유하고 있고, 다양한 관점에서 **사용자 경험 개선을 통한 서비스 성장**을 위해 꾸준히 노력하고 있습니다.<br />
+[나의 말이 상대방에게 어떻게 받아들여지는지에 대해 고민](https://soynoah.me/posts/code-review)하며, 이를 바탕으로 원활하게 소통하고자 노력합니다.
 
 <br/>
 
@@ -13,14 +13,14 @@
 
 ### 프로젝트
 
-- [훕치치](https://hufscheer.site) - 축구 경기 정보와 팀 응원 기능을 제공하는 스포츠 중계 서비스 (2023.09 ~ 진행 중)<br/>
-- [개인 블로그](https://comoluna.me) - 경험이나 생각을 주로 공유합니다.
+- [훕치치](https://hufscheer.com) - 축구 경기 정보와 팀 응원 기능을 제공하는 스포츠 중계 서비스 (2023.09 ~ 진행 중)<br/>
+- [개인 블로그](https://soynoah.me) - 경험이나 생각을 주로 공유합니다.
 
 ### 최근 포스트
 
 <!-- BLOG-POST-LIST:START -->
-- [의사소통, 문제를 해결하는 힘](https://comoluna.me/posts/key-solving-problem)
-- [나는 좋은 리뷰어인가?](https://comoluna.me/posts/code-review)
+- [의사소통, 문제를 해결하는 힘](https://soynoah.me/posts/key-solving-problem)
+- [나는 좋은 리뷰어인가?](https://soynoah.me/posts/code-review)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
