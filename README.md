@@ -1,27 +1,24 @@
 ## 프론트엔드 개발자, 최성민입니다.
 
-[스포츠 중계 서비스, 훕치치](https://hufscheer.com)를 개발하고 운영 중에 있습니다. 약 **6,000명의 누적 사용자**를 보유하고 있고, 다양한 관점에서 **사용자 경험 개선을 통한 서비스 성장**을 위해 꾸준히 노력하고 있습니다.<br />
-[나의 말이 상대방에게 어떻게 받아들여지는지에 대해 고민](https://soynoah.me/posts/code-review)하며, 이를 바탕으로 원활하게 소통하고자 노력합니다.
+디자인 시스템 엔지니어로 직무를 수행하고 있습니다. 변경에 유연하고 견고한 구조를 설계하는 것에 흥미를 느낍니다. 
+
+누구나 웹사이트를 쉽게 사용할 수 있도록, 웹 접근성을 준수하는 것에도 관심이 많습니다. <br />
+최근에는 이러한 관심사를 바탕으로 오픈소스에 기여하는 일을 즐깁니다.
+
+- [refactor: adjust aria-controls to triggers according to conditions](https://github.com/radix-ui/primitives/pull/3591)
+- [refactor: add aria-disabled on radio-group root](https://github.com/radix-ui/primitives/pull/3629)
+- [refactor: edit breadcrumb ellipsis markup](https://github.com/chakra-ui/chakra-ui/pull/10180)
+- [refactoring(breadcrumb.tsx): prevent screen reader from reading the separator](https://github.com/chakra-ui/chakra-ui/pull/9977)
 
 <br/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongminn&count_bg=%23FFAF37&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br />
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-3776AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto://berry9901@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-202B3D?style=flat&logo=readme&logoColor=white)](https://drive.google.com/file/d/14oj4fWVnsPEPbkMXIzcvkOpSqV8ssoaH/view?usp=sharing)
 
 ### 프로젝트
 
-- [훕치치](https://hufscheer.com) - 축구 경기 정보와 팀 응원 기능을 제공하는 스포츠 중계 서비스 (2023.09 ~ 진행 중)<br/>
-- [개인 블로그](https://soynoah.me) - 경험이나 생각을 주로 공유합니다.
-
-### 최근 포스트
-
-<!-- BLOG-POST-LIST:START -->
-- [의사소통, 문제를 해결하는 힘](https://soynoah.me/posts/key-solving-problem)
-- [나는 좋은 리뷰어인가?](https://soynoah.me/posts/code-review)
-<!-- BLOG-POST-LIST:END -->
+- [훕치치](https://hufscheer.com) - 축구 경기 정보와 팀 응원 기능을 제공하는 스포츠 중계 서비스 (2023.09 ~ 2025.01)<br/>
 
 <br />
 
