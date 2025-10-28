@@ -5,9 +5,16 @@
 누구나 웹사이트를 쉽게 사용할 수 있도록, 웹 접근성을 준수하는 것에도 관심이 많습니다. <br />
 최근에는 이러한 관심사를 바탕으로 오픈소스에 기여하는 일을 즐깁니다.
 
+**base-ui**
+- [[menu] Fix closeParentOnEsc default value](https://github.com/mui/base-ui/pull/2493)
+- [[select] block opening the popup when provided readOnly](https://github.com/mui/base-ui/pull/2717)
+
+**radix-ui**
 - [refactor: resolved incorrect accessibility from Select](https://github.com/radix-ui/primitives/pull/3518)
 - [refactor: adjust aria-controls to triggers according to conditions](https://github.com/radix-ui/primitives/pull/3591)
 - [refactor: add aria-disabled on radio-group root](https://github.com/radix-ui/primitives/pull/3629)
+
+**chakra-ui**
 - [refactor: edit breadcrumb ellipsis markup](https://github.com/chakra-ui/chakra-ui/pull/10180)
 - [refactoring(breadcrumb.tsx): prevent screen reader from reading the separator](https://github.com/chakra-ui/chakra-ui/pull/9977)
 
