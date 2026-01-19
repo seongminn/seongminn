@@ -9,6 +9,7 @@
 - [[menu] Fix closeParentOnEsc default value](https://github.com/mui/base-ui/pull/2493)
 - [[select] block opening the popup when provided readOnly](https://github.com/mui/base-ui/pull/2717)
 - [[interactive elements] remove duplicated disabled prop](https://github.com/mui/base-ui/pull/3650)
+- [[select] add data-placeholder](https://github.com/mui/base-ui/pull/2737)
 
 **radix-ui**
 - [refactor: resolved incorrect accessibility from Select](https://github.com/radix-ui/primitives/pull/3518)
