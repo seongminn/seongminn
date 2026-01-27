@@ -1,9 +1,12 @@
 ## 프론트엔드 개발자, 최성민입니다.
 
-디자인 시스템 엔지니어로 직무를 수행하고 있습니다. 변경에 유연하고 견고한 구조를 설계하는 것에 흥미를 느낍니다. 
+단순히 UI를 구현하는 것을 넘어, 제품 개발자가 고민하지 않아도 고품질의 결과물을 빠르게 낼 수 있는 '인프라'를
+만드는 데 집중합니다. 특히 웹 접근성 을 소수의 책임이 아닌 시스템의 기본값으로 만드는 것을 지향합니다. 
 
-누구나 웹사이트를 쉽게 사용할 수 있도록, 웹 접근성을 준수하는 것에도 관심이 많습니다. <br />
-최근에는 이러한 관심사를 바탕으로 오픈소스에 기여하는 일을 즐깁니다.
+또 시스템의 지속 가능성은 견고한 안정성에서 시작된다고 믿습니다. 변경 사항이 제품에 미치는 영향을 두려워하지
+않도록 안정적인 환경을 구축하는데 관심이 많습니다. 
+
+최근에는 이러한 관심사를 바탕으로 오픈소스에 기여하는 것을 좋아합니다.
 
 **base-ui**
 - [[menu] Fix closeParentOnEsc default value](https://github.com/mui/base-ui/pull/2493)
@@ -24,7 +27,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-3776AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto://berry9901@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-202B3D?style=flat&logo=readme&logoColor=white)](https://drive.google.com/file/d/14oj4fWVnsPEPbkMXIzcvkOpSqV8ssoaH/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-202B3D?style=flat&logo=readme&logoColor=white)](https://drive.google.com/file/d/18Cq2_e4bapagRwwkzXU-PaRwxIx-BZDD/view?usp=sharing)
 
 ### 프로젝트
 
