@@ -8,6 +8,8 @@
 
 최근에는 이러한 관심사를 바탕으로 오픈소스에 기여하는 것을 좋아합니다.
 
+### 오픈소스
+
 **base-ui**
 - [[menu] Fix closeParentOnEsc default value](https://github.com/mui/base-ui/pull/2493)
 - [[select] block opening the popup when provided readOnly](https://github.com/mui/base-ui/pull/2717)
