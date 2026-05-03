@@ -1,10 +1,10 @@
 ## 프론트엔드 개발자, 최성민입니다.
 
-단순히 UI를 구현하는 것을 넘어, 제품 개발자가 고민하지 않아도 고품질의 결과물을 빠르게 낼 수 있는 '인프라'를
-만드는 데 집중합니다. 특히 웹 접근성 을 소수의 책임이 아닌 시스템의 기본값으로 만드는 것을 지향합니다. 
+단순히 UI를 구현하는 것을 넘어, 제품 개발자가 고민하지 않아도 고품질의 결과물을 빠르게 낼 수 있는 '인프라'를 만드는 데 집중합니다.<br/>
+특히 웹 접근성 을 소수의 책임이 아닌 시스템의 기본값으로 만드는 것을 지향합니다. 
 
-또 시스템의 지속 가능성은 견고한 안정성에서 시작된다고 믿습니다. 변경 사항이 제품에 미치는 영향을 두려워하지
-않도록 안정적인 환경을 구축하는데 관심이 많습니다. 
+또 시스템의 지속 가능성은 견고한 안정성에서 시작된다고 믿습니다.<br/> 
+변경 사항이 제품에 미치는 영향을 두려워하지 않도록 안정적인 환경을 구축하는데 관심이 많습니다. 
 
 최근에는 이러한 관심사를 바탕으로 오픈소스에 기여하는 것을 좋아합니다.
 
@@ -26,7 +26,7 @@
 
 **esling-plugin-vanilla-extract**
 - [fix: lint arrays from recipe's base property (ComplexStyleRule)](https://github.com/antebudimir/eslint-plugin-vanilla-extract/pull/8)
-- [fix: lint arrays from recipe's base property (ComplexStyleRule)](https://github.com/antebudimir/eslint-plugin-vanilla-extract/pull/9)
+- [feat: improve wrapper linting reliability with global settings](https://github.com/antebudimir/eslint-plugin-vanilla-extract/pull/9)
 
 <br/>
 
