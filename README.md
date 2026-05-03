@@ -25,6 +25,10 @@
 - [refactor: edit breadcrumb ellipsis markup](https://github.com/chakra-ui/chakra-ui/pull/10180)
 - [refactoring(breadcrumb.tsx): prevent screen reader from reading the separator](https://github.com/chakra-ui/chakra-ui/pull/9977)
 
+**esling-plugin-vanilla-extract**
+- [fix: lint arrays from recipe's base property (ComplexStyleRule)](https://github.com/antebudimir/eslint-plugin-vanilla-extract/pull/8)
+- [fix: lint arrays from recipe's base property (ComplexStyleRule)](https://github.com/antebudimir/eslint-plugin-vanilla-extract/pull/9)
+
 <br/>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-3776AB?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongminn/)
