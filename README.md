@@ -17,7 +17,6 @@
 - [[select] add data-placeholder](https://github.com/mui/base-ui/pull/2737)
 
 **radix-ui**
-- [refactor: resolved incorrect accessibility from Select](https://github.com/radix-ui/primitives/pull/3518)
 - [refactor: adjust aria-controls to triggers according to conditions](https://github.com/radix-ui/primitives/pull/3591)
 - [refactor: add aria-disabled on radio-group root](https://github.com/radix-ui/primitives/pull/3629)
 
